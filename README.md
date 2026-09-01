@@ -25,6 +25,7 @@ Colección curada de recursos y proyectos de **Inteligencia Artificial**: modelo
 ---
 
 ## 🛠️ Herramientas prácticas
+- [Agent Coordinator](https://github.com/alanhoff/agent-coordinator) → Skill de Codex para el usuario actual que organiza trabajos complejos como grafos acotados, conserva estado local versionado y reconcilia trabajos inciertos antes de reintentar; los agentes especialistas son opcionales.
 - [AutoGPT](https://github.com/Torantulino/Auto-GPT) → Agente autónomo para tareas complejas.
 - [BabyAGI](https://github.com/yoheinakajima/babyagi) → Ejemplo de agente IA minimalista.
 - [OpenAI Whisper](https://github.com/openai/whisper) → Reconocimiento de voz con IA.
